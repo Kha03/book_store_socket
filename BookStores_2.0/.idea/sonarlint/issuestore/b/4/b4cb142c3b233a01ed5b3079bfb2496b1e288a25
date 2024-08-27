@@ -1,0 +1,12 @@
+
+
+java:S1192<"HDefine a constant instead of duplicating this literal "Tahoma" 20 times.(™ì½úÿÿÿÿÿ8¯ëìºï1J$5e0a886c-bb0a-4c34-bcf0-0a4fef2197d1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µşåg8±ëìºï1J$e951b2c5-7f07-4bbe-b8d0-1232e417d810
+˜	java:S116""QRename this field "ca_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïå©ûÿÿÿÿ8Åëìºï1J$3eb2646d-d5db-428d-b6da-6349ce18ec22
+œ	java:S116#"URename this field "hoaDon_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¾® ÿÿÿÿÿ8Åëìºï1J$b4f6d369-f74c-4057-86be-5826e920ea0c
+	java:S116$"WRename this field "nhanVien_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â·åğùÿÿÿÿ8Åëìºï1J$bcb7d2f5-fe37-4b2b-a746-901c9ab64dd9
+ƒ
+java:S1858Ä"@"format" returns a string, there's no need to call "toString()".(Ñı„\8Ùëìºï1J$77b90fd9-d5cc-4ec6-809b-f6e3406ee665
+„	java:S125Ó"<This block of commented-out lines of code should be removed.(…Á•£ıÿÿÿÿ8àëìºï1J$33b66a17-a12c-4ed8-a0d8-06f1b1269a3b
+x
+java:S1068$"0Remove this unused "nhanVien_DAO" private field.(Â·åğùÿÿÿÿ8âëìºï1J$1840b50c-e09e-481c-b580-573da933fa16

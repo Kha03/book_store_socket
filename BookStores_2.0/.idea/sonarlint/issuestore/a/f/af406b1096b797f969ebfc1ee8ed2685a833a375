@@ -1,0 +1,63 @@
+
+
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠÕÎ£8üÈŒáî1J$205cb456-f692-42b6-803f-3086b70ae5ce
+
+java:S1192\"HDefine a constant instead of duplicating this literal "Tahoma" 16 times.(Ìå¡Øüÿÿÿÿ8ıÈŒáî1J$dda9c364-50e6-4d23-a7fa-6a038227c015
+k
+java:S1604·"(Make this anonymous inner class a lambda(©ŞøR8ÿÈŒáî1J$26531afd-bf5f-45da-8967-4b61e40553ca
+q
+java:S1604É"(Make this anonymous inner class a lambda(¢œûÿÿÿÿ8ÿÈŒáî1J$bd541656-9c10-4d5b-879b-592e8dae79c4
+	java:S1012"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘‰Ø8‚ÉŒáî1J$b9757592-b22c-4fba-a4ee-23605d919a94
+¢	java:S116="[Rename this field "phieuDatHang_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûĞ¸öşÿÿÿÿ8ÉÉŒáî1J$d5f1caa8-1bbf-4f87-884c-f8793a326e07
+©	java:S116>"bRename this field "chiTietPhieuDatHang_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›çîËúÿÿÿÿ8ÊÉŒáî1J$1051c5ec-80e4-4507-b459-c44c844a8e71
+œ	java:S116?"URename this field "hoaDon_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¾® ÿÿÿÿÿ8ÊÉŒáî1J$d298adb1-6a19-4e9a-9a69-e1f0fcad50d6
+	java:S116@"\Rename this field "chiTietHoaDon_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø³¬·8ÊÉŒáî1J$68eebe99-3f11-4679-b53e-18cc06d620a4
+	java:S116A"VRename this field "sanPham_DAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ºî¿şÿÿÿÿ8ÊÉŒáî1J$3d68c916-5a38-421b-8049-ac0c20c82ddc
+‡
+java:S16594"DDeclare "lblTien" and all following declarations on a separate line.(‰›ıû8ÑÉŒáî1J$e729181c-a7f4-47d2-a187-1bcbc86b5e50
+l
+java:S16595"$Declare "btnXoa" on a separate line.(³µ«Éùÿÿÿÿ8ÑÉŒáî1J$e94ac9ce-4e8b-4898-bede-318bc0da9b1d
+z
+java:S1948="2Make "phieuDatHang_DAO" transient or serializable.(ûĞ¸öşÿÿÿÿ8­Ã¢¸ï1J$5dd6adb0-9f74-4697-9d61-99f4ed512547
+
+java:S1948>"9Make "chiTietPhieuDatHang_DAO" transient or serializable.(›çîËúÿÿÿÿ8­Ã¢¸ï1J$a07a49e2-ccfb-43f4-afbb-85a4db364bee
+t
+java:S1948?",Make "hoaDon_DAO" transient or serializable.(‡¾® ÿÿÿÿÿ8®Ã¢¸ï1J$9a386c7c-a676-4492-8464-f9b07bfeefa8
+v
+java:S1948@"3Make "chiTietHoaDon_DAO" transient or serializable.(ø³¬·8®Ã¢¸ï1J$16ea9b23-b66d-42c1-aecd-de0bb001bd7a
+u
+java:S1948A"-Make "sanPham_DAO" transient or serializable.(´ºî¿şÿÿÿÿ8®Ã¢¸ï1J$9b64ebe1-04a4-4758-8937-04bd5ebd1e07
+š
+java:S1149Ê"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ŠÕÎ£8ÖÉŒáî1J$c7a7b7f4-4138-4d62-ba62-e5b0b85953ce
+r
+java:S1197g"*Move the array designators [] to the type.(·å÷—ıÿÿÿÿ8àÉŒáî1J$a8b0cb6b-a6c6-4ed8-aeb7-0c03de261460
+z
+java:S1135y"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8èÉŒáî1J$d0f9bd5b-4bdf-4c8e-8e44-82405d4d7661
+z
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8éÉŒáî1J$6e3870be-20b0-4a92-8220-aec472ebfa68
+{
+java:S1135…"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8éÉŒáî1J$19c59e89-3416-4536-a3b7-c39053ce4ece
+{
+java:S1135‹"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8éÉŒáî1J$8f6e7f53-d93f-49b2-9933-aadc59794ea2
+Š
+java:S3252©"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿ8ïÉŒáî1J$f5795082-7dd4-4228-83de-da6546c502eb
+n
+java:S1197›"*Move the array designators [] to the type.(Áúî8üÉŒáî1J$524983bc-9dcf-4511-9011-0444c3aa01da
+{
+java:S1135­"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÿÉŒáî1J$6cca3624-87cb-4505-aa8f-f610c077ab8d
+{
+java:S1135³"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÊŒáî1J$85a26a44-d6ec-4167-99cc-c7791ec403fe
+{
+java:S1135¹"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÊŒáî1J$e957deee-5d2d-4887-a0f3-76c18c471c7a
+{
+java:S1135¿"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚ÊŒáî1J$690915fd-cd08-42bc-a645-b0d7a82911e5
+{
+java:S1135Å"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚ÊŒáî1J$ada754dc-d320-49e1-ab8f-069f20f81266
+Š
+java:S3252Ğ"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¦™œĞÿÿÿÿÿ8„ÊŒáî1J$388cbc12-6b4f-4621-a7a8-79d6ca443334
+º
+java:S1130ã"qRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from method's body.(…¤ò•ùÿÿÿÿ8‚Ä¢¸ï1J$aa563c00-1557-4821-972f-be51bac1e1b2
+Å
+java:S1130œ"€Remove the declaration of thrown exception 'net.sf.jasperreports.engine.JRException', as it cannot be thrown from method's body.(©Óó³8ŒÄ¢¸ï1J$f2e38bf9-03b4-4005-82dc-d1867ede02c7
+²
+java:S1130œ"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(©Óó³8ŒÄ¢¸ï1J$fb1e25b8-2568-49e6-9b52-9efb4da61e28
