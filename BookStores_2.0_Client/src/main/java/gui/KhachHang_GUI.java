@@ -61,7 +61,7 @@ public class KhachHang_GUI extends JPanel implements ActionListener {
 
 	private KhachHang_Impl khachHang_DAO;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public KhachHang_GUI() throws RemoteException, MalformedURLException, NotBoundException {
 

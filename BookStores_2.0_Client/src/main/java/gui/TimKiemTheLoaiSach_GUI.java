@@ -34,7 +34,7 @@ public class TimKiemTheLoaiSach_GUI extends JInternalFrame {
 	private TheLoaiSach_Impl theLoaiSach_DAO;
 	private ArrayList<TheLoaiSach> ds;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public TimKiemTheLoaiSach_GUI(ArrayList<TheLoaiSach> ds) throws RemoteException, MalformedURLException, NotBoundException {
 

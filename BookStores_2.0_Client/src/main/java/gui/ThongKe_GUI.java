@@ -104,7 +104,7 @@ public class ThongKe_GUI extends JPanel {
 	private JTable table;
 	private DefaultTableModel model;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public ThongKe_GUI() throws RemoteException, MalformedURLException, NotBoundException {
 		

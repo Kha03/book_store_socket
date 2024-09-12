@@ -29,7 +29,7 @@ public class TimKiemNhaCungCap extends JInternalFrame {
 	private NhaCungCap_Impl nhaCungCap_Dao;
 	private ArrayList<NhaCungCap> ds;
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public TimKiemNhaCungCap(ArrayList<NhaCungCap>ds) throws RemoteException, MalformedURLException, NotBoundException {
 		nhaCungCap_Dao = (NhaCungCap_Impl) Naming.lookup(URL + "nhaCungCapDAO");

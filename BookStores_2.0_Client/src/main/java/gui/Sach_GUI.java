@@ -113,7 +113,7 @@ public class Sach_GUI extends JPanel {
 	private File selectedFile;
 	private XSSFWorkbook wordkbook;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public Sach_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 		nhaXuatBan_DAO = (NhaXuatBan_Impl) Naming.lookup(URL + "nhaXuatBanDAO");

@@ -36,7 +36,7 @@ public class TimKiemNhaXuatBan_GUI extends JInternalFrame {
 	private NhaXuatBan_Impl nhaXuatBan_DAO;
 	private ArrayList<NhaXuatBan> ds;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public TimKiemNhaXuatBan_GUI(ArrayList<NhaXuatBan> ds) throws RemoteException, MalformedURLException, NotBoundException {
 

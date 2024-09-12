@@ -53,7 +53,7 @@ public class TimKiemNhanVien_GUI extends JInternalFrame {
 	private JButton btnTim;
 	private JDateChooser dateChooserNgaySinh;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public TimKiemNhanVien_GUI(ArrayList<NhanVien> ds) throws RemoteException, MalformedURLException, NotBoundException {
 

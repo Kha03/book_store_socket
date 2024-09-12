@@ -15,7 +15,7 @@ public class ConnectDB {
 	public static void connect() throws SQLException {
 		String url = "jdbc:sqlserver://localhost:1433;databaseName=Book;trustServerCertificate=true;encrypt=true";
 		String user = "sa";
-		String password = "sapassword";
+		String password = "admin";
 		con = DriverManager.getConnection(url, user, password);
 	}
 

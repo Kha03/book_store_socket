@@ -37,7 +37,7 @@ public class TimKiemDungCuHoctap extends JInternalFrame {
 	private NhaCungCap_Impl nhaCungCap_DAO;
 	private DungCuHocTap_Impl dungCuHocTap_DAO;
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public TimKiemDungCuHoctap(List<DungCuHocTap> ds) throws RemoteException, MalformedURLException, NotBoundException {
 		dungCuHocTap_DAO = (DungCuHocTap_Impl) Naming.lookup(URL + "dungCuHocTapDAO");

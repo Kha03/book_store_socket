@@ -68,7 +68,7 @@ public class DanhSachHoaDon_GUI extends JPanel {
     private KhachHang_Impl khachHang_DAO;
     private SanPham_Impl sanPham_DAO;
 
-    private static final String URL = "rmi://PhamVanThanh:9891/";
+    private static final String URL = "rmi://KhaMinh:9891/";
 
     public DanhSachHoaDon_GUI() throws RemoteException, MalformedURLException, NotBoundException {
 

@@ -39,7 +39,7 @@ public class KhoiPhucDungCuHocTap_GUI extends JInternalFrame {
 	
 	private DungCuHocTap_Impl dungCuHocTap_DAO;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	public KhoiPhucDungCuHocTap_GUI(List<DungCuHocTap> ds) throws RemoteException, MalformedURLException, NotBoundException {
 		this.ds = ds;
 		

@@ -59,7 +59,7 @@ public class NhaCungCap_GUI extends JPanel implements ActionListener {
 
 	private NhaCungCap_Impl nhaCungCap_DAO;
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public NhaCungCap_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 

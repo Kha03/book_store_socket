@@ -38,7 +38,7 @@ public class DoiMatKhau_GUI extends JInternalFrame {
 	
 	private TaiKhoan_Impl taiKhoan_DAO;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public DoiMatKhau_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 		// khai bao DAO

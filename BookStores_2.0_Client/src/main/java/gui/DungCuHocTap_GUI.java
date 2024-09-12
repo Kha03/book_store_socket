@@ -85,7 +85,7 @@ public class DungCuHocTap_GUI extends JPanel {
 	private NhaCungCap_Impl nhaCC_DAO;
 	private DungCuHocTap_Impl dungCuHocTap_DAO;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public DungCuHocTap_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 

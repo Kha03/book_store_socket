@@ -43,7 +43,7 @@ public class KhoiPhucSach_GUI extends JInternalFrame {
 	
 	private Sach_Impl sach_DAO;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	public KhoiPhucSach_GUI(List<Sach> ds) throws RemoteException, MalformedURLException, NotBoundException {
 		this.ds = ds;
 		sach_DAO = (Sach_Impl) Naming.lookup(URL + "sachDAO");

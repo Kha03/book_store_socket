@@ -69,7 +69,7 @@ public class DanhSachDatHang_GUI extends JPanel {
 	private DanhSachHoaDon_GUI danhSachHoaDon_GUI;
 	private TrangChu_GUI trangChu_GUI;
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public DanhSachDatHang_GUI(DanhSachHoaDon_GUI danhSachHoaDon_GUI, TrangChu_GUI trangChu_GUI) throws RemoteException, MalformedURLException, NotBoundException {
 		// declare variables DAO

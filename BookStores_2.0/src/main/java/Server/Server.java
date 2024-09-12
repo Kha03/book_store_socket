@@ -11,7 +11,7 @@ import java.rmi.registry.LocateRegistry;
 
 public class Server {
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	public static void main(String[] args) throws RemoteException, NamingException {
 		Context context = new InitialContext();
 

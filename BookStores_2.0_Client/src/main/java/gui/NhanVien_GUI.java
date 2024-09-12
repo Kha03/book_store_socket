@@ -84,7 +84,7 @@ public class NhanVien_GUI extends JPanel {
 
 	private NhanVien_Impl nhanVien_DAO;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	public NhanVien_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 
 		// khai bao DAO

@@ -67,7 +67,7 @@ public class TheLoaiSach_GUI extends JPanel {
 	private JInternalFrame timKiemTheLoaiSach_GUI;
 	private ArrayList<TheLoaiSach> ds;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public TheLoaiSach_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 

@@ -64,7 +64,7 @@ public class NhaXuatBan_GUI extends JPanel {
 	private JTextField txtTenNXB;
 	private JTextField txtTenNXBValue;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	public NhaXuatBan_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 
 		// Khai bao DAO

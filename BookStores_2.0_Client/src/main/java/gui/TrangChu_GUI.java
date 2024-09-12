@@ -35,7 +35,7 @@ public class TrangChu_GUI extends JPanel {
 	private JLabel lblTieuDe;
 	private NhanVien nhanVien;
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public TrangChu_GUI(NhanVien nhanVien) throws RemoteException, MalformedURLException, NotBoundException {
 		ca_DAO = (Ca_Impl) Naming.lookup(URL + "caDAO");

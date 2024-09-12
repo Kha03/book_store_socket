@@ -90,7 +90,7 @@ public class HoaDon_GUI extends JPanel {
 	private ThongKe_GUI thongKe_GUI;
 	private TrangChu_GUI trangChu_GUI;
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 	
 	public HoaDon_GUI(NhanVien nhanVien, DanhSachHoaDon_GUI danhSachHoaDon_GUI, ThongKe_GUI thongKe_GUI, TrangChu_GUI trangChu_GUI) throws RemoteException, MalformedURLException, NotBoundException {
 		this.danhSachHoaDon_GUI = danhSachHoaDon_GUI;

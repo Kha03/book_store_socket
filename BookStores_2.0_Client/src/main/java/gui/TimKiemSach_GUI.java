@@ -53,7 +53,7 @@ public class TimKiemSach_GUI extends JInternalFrame {
 	private JButton btnTim;
 	private JButton btnquayLai;
 
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 
 	public TimKiemSach_GUI(List<Sach> ds2) throws RemoteException, MalformedURLException, NotBoundException {
 

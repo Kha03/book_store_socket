@@ -32,7 +32,7 @@ public class TimKiemKhachHang_GUI extends JInternalFrame {
 	
 	private KhachHang_Impl khachHang_DAO;
 	
-	private static final String URL = "rmi://PhamVanThanh:9891/";
+	private static final String URL = "rmi://KhaMinh:9891/";
 
 	public TimKiemKhachHang_GUI(ArrayList<KhachHang> ds) throws RemoteException, MalformedURLException, NotBoundException {
 		khachHang_DAO = (KhachHang_Impl) Naming.lookup(URL + "khachHangDAO");

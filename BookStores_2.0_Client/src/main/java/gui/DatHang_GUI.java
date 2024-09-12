@@ -78,7 +78,7 @@ public class DatHang_GUI extends JPanel {
     private DungCuHocTap_Impl dungCuHocTap_DAO;
     private NhanVien_Impl nhanVien_DAO;
 
-    private static final String URL = "rmi://PhamVanThanh:9891/";
+    private static final String URL = "rmi://KhaMinh:9891/";
 
     public DatHang_GUI(NhanVien nhanVien, DanhSachDatHang_GUI danhSachDatHang_GUI) throws RemoteException, MalformedURLException, NotBoundException {
         this.danhSachDatHang_GUI = danhSachDatHang_GUI;
